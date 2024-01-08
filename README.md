@@ -10,4 +10,3 @@ My Linkedin:
 
 
 
-theme: jekyll-theme-THEME-NAME
